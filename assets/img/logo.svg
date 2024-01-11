@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99.493" height="39.602" viewBox="0 0 99.493 39.602">
+  <g id="Component_72_5" data-name="Component 72 – 5" transform="translate(0 0.5)">
+    <text id="LEAD" transform="translate(52.493 35.102)" fill="#fff" font-size="30" font-family="EYInterstate-Regular, EYInterstate"><tspan x="0" y="0"></tspan></text>
+    <line id="Line_29" data-name="Line 29" y2="38" transform="translate(41.993)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.502"/>
+    <g id="Group_7485" data-name="Group 7485">
+      <g id="Group_7178" data-name="Group 7178" transform="translate(0 0.005)" style="mix-blend-mode: luminosity;isolation: isolate">
+        <path id="Path_1" data-name="Path 1" d="M510.956,392.421h5.977v-3.76h-5.977V385.7h6.611l-2.193-4.119H506v17.909h13.222v-4.119h-8.265Z" transform="translate(-505.713 -363.291)" fill="#fff"/>
+        <path id="Path_2" data-name="Path 2" d="M553.022,381.586l-2.808,5.844-2.8-5.844h-5.48l5.775,10.835v7.074h4.942v-7.074l5.782-10.835Z" transform="translate(-530.715 -363.291)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M537.734,326.093,505.06,339.016l32.674-6.255Z" transform="translate(-505.06 -326.093)" fill="#ffe600"/>
+      </g>
+      <path id="Path_126" data-name="Path 126" d="M173.688,24.764v6.7l-32.67,6.223Z" transform="translate(-141 -24.764)" fill="#ffe600"/>
+    </g>
+  </g>
+</svg>
